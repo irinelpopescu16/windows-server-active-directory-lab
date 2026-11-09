@@ -36,6 +36,8 @@ The lab consists of two virtual machines:
 The server has an internal network adapter and a separate
 VirtualBox NAT adapter for external connectivity.
 
+![Network Topology](diagrams/network-topology.png)
+
 ## 1. Network Configuration
 
 Configured a static IPv4 address on the server's internal
